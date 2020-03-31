@@ -1,5 +1,6 @@
 # DSX-07
 For Android-Compatible
+
 Powered by Adafruit Industries
 
 Deskripsi : Terinspirasi dari teman, abang kandung (alumni elektro'10), dan disupport oleh orang yang saya sayangi. Tanpa dukungan mereka saya tak mampu menyelesaikan satu project ini, yaitu Ibu & Ayah saya.
