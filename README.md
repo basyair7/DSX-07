@@ -1,4 +1,4 @@
-# DSX-07
+# DSX-07 v.01
 For Android-Compatible
 
 Powered by Adafruit Industries
