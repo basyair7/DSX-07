@@ -3,9 +3,7 @@
 /*before verify/Upload, don't forget to Install the libraries  
  *go to sketch >> Include Library >> Add .ZIP File >> Select the Downloaded ZIP files From the Above links
  */
-/*Deskripsi : Terinspirasi dari teman, abang kandung (alumni elektro'10), dan disupport oleh 
- orang yang saya sayangi. Tanpa dukungan nya saya tak mampu menyelesaikan satu project ini, yaitu Ibu saya.
- */
+
 /*Credit : Thanks Allah SWT., Nabi Muhammad SAW., Thanks My mother & father, Thanks My Brother, and Thanks My Friends electrical enginner'19 usk 
  *         Syiah Kuala University
  */
