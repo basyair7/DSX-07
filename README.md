@@ -1,5 +1,5 @@
 # DSX-07 v.01
-For Android-Compatible
+For Arduino-Compatible
 
 Powered by Adafruit Industries
 
