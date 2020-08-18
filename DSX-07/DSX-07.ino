@@ -7,7 +7,7 @@
 /*Deskripsi : Terinspirasi dari teman, abang kandung (alumni elektro'10), dan disupport oleh 
  orang yang saya sayangi. Tanpa dukungan nya saya tak mampu menyelesaikan satu project ini, yaitu Ibu saya.
  */
-/*Credit : Thanks Allah SWT., Nabi Muhammad SAW., Thanks My mother & father, Thanks My Brother, and Thank you my friends from Electrical Engnerring'19 USK,  
+/*Credit : Thanks Allah SWT., Nabi Muhammad SAW., Thanks My mother & father, Thanks My Brother, and Thank you my friends from Electrical Engneering'19 USK,  
  *         Syiah Kuala University.
  */
 
